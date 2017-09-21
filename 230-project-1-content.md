@@ -1,21 +1,19 @@
-# Bananagans
+# Attack of the Overprotective Mothers
 
 ## High Concept
-Potassium fueled action!
+Your mother and aunts want to all kiss you goodbye as you leave the family party at the same time! And they're wearing smudgy lipstick!
 
 ## Genre
-Shoot 'em up
+Top-down shooter
 
 ## Platform
 Web for desktop.
 
 ## Story
-You come from a successful tribe of banana foraging monkeys, but your village is overthrown by humans destroying your home
-for more land to farm. It is now up to you, Monk Ley, to save your village from the land thirsty humans and reclaim what is rightfully
-yours from the hairless menace.
+You're at a family party and your family is allowing you to go see your friends while the party is still going on. You get outside, but wait! Your mother and her sisters forgot to kiss you goodbye! So now the question is, do you get trampled by the stampeding matriarchs, or do you stand your ground?
 
 ## Aesthetics
-Cartoony, playful
+playful, minimalist, cartoon-like
 
 ## Gameplay
 ### Mechanics
@@ -25,19 +23,17 @@ Cartoony, playful
 
 ### Controls
 - keyboard:
-  - WASD
-  - arrows - alt move
-  - spacebar -  to primary fire
-  - "p/P" for pause
+  - WASD/arrow keys : move
+  - p: pause
 -Mouse
-  - focus mouse to rotate
-  - left click - alt primary fire 
+  - move mouse to rotate character. weapon direction follows the mouse
+  - left-click :  primary fire
   
 ### Teaching the game/New user experience aka "Onboarding"
-Display UI screen with images explaining the controls.
+boxes on the screen before the game that explains the story and controls.
  
 ### Player Learning
-There's not really a learning curve, if the player lasts long they're good.
+Not much of a learning curve, the player will just get better the more they play as they get used to the controls
 
 ## Screenshots
 
@@ -46,6 +42,6 @@ There's not really a learning curve, if the player lasts long they're good.
 
 
 ## About the developer
-He's half blind and has about a year of extensive coding experience (meaning classes).
+Strapping young debonair individual with a passion for games and woul
 
 ## References
