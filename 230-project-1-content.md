@@ -20,6 +20,8 @@ playful, minimalist, cartoon-like
 -Movement
 -Shooting
 -Powerups
+    -attacking faster
+    -moving faster
 
 ### Controls
 - keyboard:
@@ -30,7 +32,7 @@ playful, minimalist, cartoon-like
   - left-click :  primary fire
   
 ### Teaching the game/New user experience aka "Onboarding"
-boxes on the screen before the game that explains the story and controls.
+boxes on the screen before the game that explains the story and controls. "WASD to move around the map, move mouse to aim your weapon. Left click to attack."
  
 ### Player Learning
 Not much of a learning curve, the player will just get better the more they play as they get used to the controls
@@ -42,7 +44,7 @@ Not much of a learning curve, the player will just get better the more they play
 
 
 ## About the developer
-Strapping young debonair individual with a passion for games and woul
+Strapping young debonair individual with a passion for games who knows the struggle of being protected just a little too much sometimes. I will fight tirelessly to create the game we all want; no, deserve.
 
 ## References
 https://hemabhattgrowingkids.files.wordpress.com/2015/10/overprotective.jpg
