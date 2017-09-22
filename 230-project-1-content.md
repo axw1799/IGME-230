@@ -4,7 +4,7 @@
 Your mother and aunts want to all kiss you goodbye as you leave the family party at the same time! And they're wearing smudgy lipstick!
 
 ## Genre
-Top-down shooter
+Top-down shooter. Twin Stick shooter
 
 ## Platform
 Web for desktop.
@@ -36,7 +36,7 @@ boxes on the screen before the game that explains the story and controls.
 Not much of a learning curve, the player will just get better the more they play as they get used to the controls
 
 ## Screenshots
-
+![OverprotectiveMom](https://hemabhattgrowingkids.files.wordpress.com/2015/10/overprotective.jpg "Overprotective Mom")
 
 ## Other
 
@@ -45,3 +45,4 @@ Not much of a learning curve, the player will just get better the more they play
 Strapping young debonair individual with a passion for games and woul
 
 ## References
+https://hemabhattgrowingkids.files.wordpress.com/2015/10/overprotective.jpg
