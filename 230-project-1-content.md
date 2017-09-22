@@ -17,11 +17,12 @@ playful, minimalist, cartoon-like
 
 ## Gameplay
 ### Mechanics
--Movement
--Shooting
--Powerups
-    -attacking faster
-    -moving faster
+-Mechanics:
+    -Movement
+    -Shooting
+    -Powerups:
+        -attacking faster
+        -moving faster
 
 ### Controls
 - keyboard:
